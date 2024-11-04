@@ -18,12 +18,23 @@
   <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-</p>
-  <img src="assets\robo_astronaut.png" width="128"height="128" />
-
 </p>
 
+<a href="https://github.com/rorosaga">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rorosaga&theme=dark&hide_border=false\&rank_icon=github" />
+</a>
+
+<a href="https://github.com/rorosaga">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorosaga&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</a>
+
+</p>
+<img src="assets\robo_astronaut.png" width="128"height="128" />
+
+
+<!-- <a href="https://github.com/rorosaga">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=rorosaga&theme=dark&hide_border=false" />
+</a> -->
 
 <!-- <h2> Projects </h2>
 
