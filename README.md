@@ -3,7 +3,7 @@
 
 **`Exploring the universe through code and creativity (Developer/Engineer)`**
 <p>
-I'm batman
+I'm Batman.
 </p>
 
 <a href="https://github.com/rorosaga">
