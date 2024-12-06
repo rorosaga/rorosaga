@@ -18,6 +18,7 @@
 
 📬 *So, whether it's for a cool project or some good music recommendations, feel free to reach out :)*
 
+<br>
 
 <a href="https://github.com/rorosaga">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=rorosaga&theme=dark&hide_border=false\&rank_icon=github" />
@@ -27,10 +28,9 @@
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorosaga&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 
-  
+<br>  
 
 <p>
-
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
@@ -60,9 +60,9 @@
 
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-
-
 </p>
+
+<br>
 
 <p>
     <img src="assets\mech_hangar.gif" width="500"height="281" />
@@ -70,6 +70,8 @@
 
 
 **`i'm batman`** 🦇🐉
+
+</div>
 
 <!-- <img src="assets\robo_astronaut.png" width="128"height="128" /> -->
 
