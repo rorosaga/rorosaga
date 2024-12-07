@@ -16,6 +16,10 @@
 
 🌱 *Passionate CS & AI student fueled by endless curiosity and a love for learning. I thrive on exploring new ideas and fiding simple, elegant solutions, to complex problems. Always eager to take on exciting projects and collaborate with like-minded individuals.* 🌌🔭
 
+🚀 *I’m currently leading the development of **Botzo**, a quadruped robot dog, as **Co-President** of the project. This initiative blends my passions for robotics, machine learning, and engineering. Alongside, I’m exploring creative coding, generative art, and expanding my expertise in web development and backend systems*. 🎨🤖
+
+🌐 [Check out good boy botzo here!](https://github.com/botzo-team) and some of my pinned projects below 📌
+
 📬 *So, whether it's for a cool project or some good music recommendations, feel free to reach out :)*
 
 <br>
