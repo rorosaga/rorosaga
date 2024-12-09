@@ -6,14 +6,16 @@
 <a href="https://www.instagram.com/rorosaga1" target="_blank" rel="noopener noreferrer">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%232C3454.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/rodrigosagastegui" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232C3454.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
+
 <a href="mailto:roro.sagasmarti15@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-2c3454?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=rorosaga&color=lightgrey&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=rorosaga&color=blue&style=for-the-badge&abbreviated=true)
 
 🌱 *Passionate CS & AI student fueled by endless curiosity and a love for learning. I thrive on exploring new ideas and fiding simple, elegant solutions, to complex problems. Always eager to take on exciting projects and collaborate with like-minded individuals.* 🌌🔭
 
