@@ -15,7 +15,9 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-2c3454?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=rorosaga&color=blue&style=for-the-badge&abbreviated=true)
+<a href="">
+  <img alt="Counter" src="https://komarev.com/ghpvc/?username=rorosaga&color=blue&style=for-the-badge&abbreviated=true" />
+</a>
 
 🌱 *Passionate CS & AI student fueled by endless curiosity and a love for learning. I thrive on exploring new ideas and fiding simple, elegant solutions, to complex problems. Always eager to take on exciting projects and collaborate with like-minded individuals.* 🌌🔭
 
